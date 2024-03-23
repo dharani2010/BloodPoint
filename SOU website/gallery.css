@@ -1,0 +1,31 @@
+img{
+	max-width: 60%;
+}
+.gallery{
+	background-color:lightcoral;
+	padding: 50px 0;
+}
+.gallery img{
+	background-color: #141313;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 25px rgba(5, 12, 237, 0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+.container-fluid{
+	background-color: rgb(21, 20, 25);
+	color:rgb(19, 210, 244);
+}
+.container{
+	background-color:lightgrey ;
+	color:rgb(0, 8, 4)
+}
+.container-lg{
+	background-color: aqua;
+}
+.contect-info{
+	background-color: #141313;
+}
